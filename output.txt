@@ -1,0 +1,4 @@
+Searching for th
+In file test.txt
+this is the text i will be 
+i need the find the needle.
